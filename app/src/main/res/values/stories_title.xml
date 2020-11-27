@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>Football</item>
+        <item>Call of Duty</item>
+        <item>PUGB</item>
+        <item>Assassin Creed</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886022358158",
+    "firebase_url": "https://king-cheda-69f3e.firebaseio.com",
+    "project_id": "king-cheda-69f3e",
+    "storage_bucket": "king-cheda-69f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886022358158:android:169dddf933845bb3af35df",
+        "android_client_info": {
+          "package_name": "com.example.kingcheda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886022358158-jurq8e52cp3jfnvepofavivsmd7j9kct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp7tbMw-0Hvz-b1R_NytM7ecXxIhtoE3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886022358158-jurq8e52cp3jfnvepofavivsmd7j9kct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

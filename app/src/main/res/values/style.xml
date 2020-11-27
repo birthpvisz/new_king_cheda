@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#850000</item>
+        <item name="colorPrimaryDark">#850000</item>
+        <item name="colorAccent">#850000</item>
+    </style>
+
+    <style name="MyCustomTheme" parent="RaveAppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="OTPButtonStyle">@style/otpBtnStyle2</item>
+        <item name="PayButtonStyle">@drawable/butons</item>
+        <item name="OTPHeaderStyle">@style/otpHeaderStyle2</item>
+        <item name="TabLayoutStyle">@style/tabLayoutStyle2</item>
+        <item name="PinHeaderStyle">@style/pinHeaderStyle2</item>
+        <item name="PaymentTileStyle">@color/colorPrimaryDark</item>
+        <item name="PaymentTileTextStyle">@font/rubik_bold</item>
+        <item name="PaymentTileDividerStyle">@drawable/input_design</item>
+    </style>
+</resources>
